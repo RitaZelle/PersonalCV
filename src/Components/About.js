@@ -35,9 +35,9 @@ class About extends Component {
                       {name}<br />
                       Mobile: {phone}<br />
                       Email: {email}<br />
-                      {this.props.data.address.line1}<br />
+                      {/* {this.props.data.address.line1}<br />
                       {this.props.data.address.line2}<br />
-                      {this.props.data.address.line3}<br />
+                      {this.props.data.address.line3}<br /> */}
                     </span>
                   </p>
                 </div>
