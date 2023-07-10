@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Hexin Zheng (Rita)",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "description":"Current Master of IT student looking to join the workforce to gain real-world experience. Ability to complete tasks on time in both individual and team settings. Dependable and reliable, ready to learn and grow with your company.",
     "image":"profile.jpg",
     "bio":"My name is Hexin Zheng.",
     "contactmessage":"Thank you for your feedback.",
@@ -10,8 +10,8 @@
     "github":"https://github.com/RitaZelle",
     "project":"https://github.com/RitaZelle/PersonalCV",
     "address":{
-      "line1":"Address: 13 Main St",
-      "line2":"City: Brisbane",
+      "line1":"Suburb: Hurstville",
+      "line2":"City: Sydney",
       "line3":"Country: Australia"
     },
     "youtube":{
@@ -29,7 +29,7 @@
     "social":[
       {
         "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
+        "url":"https://twitter.com/Rita_Zell",
         "className":"fa fa-twitter"
       },
       {
@@ -72,10 +72,10 @@
     ],
     "work":[
       {
-        "company":"",
-        "title":"",
-        "years":"",
-        "description":""
+        "company":"Qingdao Kaoma Technology Co., Ltd, Qingdao, China",
+        "title":"Java Developer (Internship)",
+        "years":"Jan 2021 - Mar 2021",
+        "description":"Participate in different phases of the software development life cycle including requirements analysis, design, coding, testing and deployment."
       }
     ],
     "skills":[
