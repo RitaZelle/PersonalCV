@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Hexin Zheng (Rita)",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.jpg",
+    "bio":"My name is Hexin Zheng.",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "zhenghexin1999@gmail.com",
+    "phone": "(+61) 476 763 691",
+    "github":"https://github.com/RitaZelle",
+    "project":"https://github.com/RitaZelle/PersonalCV",
+    "address":{
+      "line1":"Address: 13 Main St",
+      "line2":"City: Brisbane",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "hexin zheng",
+        "url": "https://www.youtube.com/@hexinzheng1591/featured"
+      },
+      "chinese": {
+        "name": "Rita在悉尼",
+        "url":"https://www.youtube.com/@hexinzheng1591/featured"
+      }
+    },
+    "website": "http://hexinzheng.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/daiwei920",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/RitaZelle",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/@hexinzheng1591/featured",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Sydney",
+        "degree":"Master of Information Technology",
+        "graduated":"2022 - 2024",
+        "description":""
+      },
+      {
+        "school":"HUAWEI certification",
+        "degree":"HUAWEI Cloud",
+        "graduated":"Dec 2021",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Infrastructure, API, Database)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React, Angular)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "ELEC5619",
+        "category": "Course",
+        "image":"11.png",
+        "url":"https://www.youtube.com/watch?v=EH-tJrMri0M"
+      },
+      {
+        "title":"Project",
+        "description": "ELEC5620",
+        "category": "Project",
+        "image":"22.png",
+        "url":"https://www.youtube.com/watch?v=grGwps6GBG0&t=8s"
+      }
+     
+    ]
+  }
+}
